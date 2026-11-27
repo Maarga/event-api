@@ -1,0 +1,18 @@
+{
+  "name": "event-api",
+  "version": "1.0.0",
+  "description": "BED411 бие даалт: Event API",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
